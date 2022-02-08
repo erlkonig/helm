@@ -25,9 +25,9 @@ entries:
           name: traefik
     apiVersion: v2
     appVersion: 1.5.0
-    created: "2022-02-08T19:34:54.380077354Z"
+    created: "2022-02-08T19:43:46.041569915Z"
     description: Multi-user Jupyter installation
-    digest: f8c334f2798ee6b69492f1d4bd7fa454add166475e92df5dd9144ada0147fc40
+    digest: 65fd7986a5d82c83d47c652b907dc8fbec31aca4693b4cd9bb00fbb7f6ad3a9b
     home: https://z2jh.jupyter.org
     icon: https://jupyter.org/assets/hublogo.svg
     keywords:
@@ -44,6 +44,6 @@ entries:
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
     urls:
-    - https://github.com/erlkonig/helm/releases/download/jupyterhub-1.2.41/jupyterhub-1.2.41.tgz
-    version: 1.2.41
-generated: "2022-02-08T19:34:54.21171692Z"
+    - https://github.com/erlkonig/helm/releases/download/jupyterhub-1.2.42/jupyterhub-1.2.42.tgz
+    version: 1.2.42
+generated: "2022-02-08T19:43:45.896287091Z"
